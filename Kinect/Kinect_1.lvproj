@@ -26,6 +26,9 @@
 		<Item Name="ObtainGraphicsObject.vi" Type="VI" URL="../ObtainGraphicsObject.vi"/>
 		<Item Name="SmartAddObject.vi" Type="VI" URL="../SmartAddObject.vi"/>
 		<Item Name="GetFovRayData.vi" Type="VI" URL="../GetFovRayData.vi"/>
+		<Item Name="voxel plot v2.vi" Type="VI" URL="../voxel plot v2.vi"/>
+		<Item Name="GenerateChunks.vi" Type="VI" URL="../GenerateChunks.vi"/>
+		<Item Name="test chunkloader.vi" Type="VI" URL="../test chunkloader.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="3D Plot Datatype.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Math Plots/3D Math Plots/3D Plot/3D Plot Datatype/3D Plot Datatype.lvclass"/>
@@ -72,6 +75,7 @@
 				<Item Name="Color (U64)" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Color (U64)"/>
 				<Item Name="IMAQ Copy" Type="VI" URL="/&lt;vilib&gt;/vision/Management.llb/IMAQ Copy"/>
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
+				<Item Name="LVSceneTextAlignment.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVSceneTextAlignment.ctl"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="nivision.dll" Type="Document" URL="nivision.dll">
