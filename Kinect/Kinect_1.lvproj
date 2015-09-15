@@ -29,6 +29,7 @@
 		<Item Name="voxel plot v2.vi" Type="VI" URL="../voxel plot v2.vi"/>
 		<Item Name="GenerateChunks.vi" Type="VI" URL="../GenerateChunks.vi"/>
 		<Item Name="test chunkloader.vi" Type="VI" URL="../test chunkloader.vi"/>
+		<Item Name="GetObjectCount.vi" Type="VI" URL="../GetObjectCount.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="3D Plot Datatype.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Math Plots/3D Math Plots/3D Plot/3D Plot Datatype/3D Plot Datatype.lvclass"/>
